@@ -1,1 +1,3 @@
 "# mynewrepo" 
+New Line
+Yoohoo!
