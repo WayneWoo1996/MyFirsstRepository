@@ -1,3 +1,0 @@
-"# mynewrepo" 
-New Line
-Yoohoo!
